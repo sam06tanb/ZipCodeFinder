@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Atxy2k">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/cep/Atxy2k.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
